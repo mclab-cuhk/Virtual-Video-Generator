@@ -11,6 +11,11 @@ The Virtual Video Generator part is the video processor to encode the virtual mo
 
 This repositiory contains the necessary source code files to build the Virtual Video Generator:
 
-ffmpeg-3.2.4/      contains the modified source code tree of open source ffmpeg video processor
-barcode-0.99/      contains the original source code tree of open source dependent barcode library used in the ffmpeg video processor
-Zbar-0.10/         contains the original source code tree of open source dependent barcode library used in the ffmpeg video processor
+ffmpeg-3.2.4/
+contains the modified source code tree of open source ffmpeg video processor
+
+barcode-0.99/
+contains the original source code tree of open source dependent barcode library used in the ffmpeg video processor
+
+Zbar-0.10/
+contains the original source code tree of open source dependent barcode library used in the ffmpeg video processor
